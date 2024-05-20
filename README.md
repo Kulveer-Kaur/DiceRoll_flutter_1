@@ -1,4 +1,4 @@
-# udemy_flutter_1
+# diceRoll_flutter_1
 
 A new Flutter project.
 
